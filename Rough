@@ -1,0 +1,76 @@
+Abstract
+
+Many students and working professionals staying in PGs and rented houses struggle with daily cooking due to busy schedules and limited cooking resources. This project aims to develop a web-based food service platform that connects users with cooks who can either cook at the user's place, provide takeaway meals from their own place, or be hired for special events. The system will have three user roles: Admin, Cooks, and Users. The platform will allow users to register, book services, and make payments online, while cooks can manage orders and availability. The admin will oversee the entire system, ensuring smooth operation.
+
+
+---
+
+Software Requirements
+
+Frontend:
+
+HTML, CSS, JavaScript (or frameworks like React, Vue.js)
+
+
+Backend:
+
+PHP (or Node.js)
+
+MySQL (Database Management System)
+
+
+Server & Hosting:
+
+Apache/XAMPP for local development
+
+Cloud hosting (if deployed, e.g., AWS, Firebase, or any shared hosting)
+
+
+Other Tools:
+
+Payment gateway integration (Razorpay, Stripe, or UPI)
+
+Google Maps API (for cook location & service area)
+
+Admin panel (PHPMyAdmin or custom-built)
+
+
+
+---
+
+Hardware Requirements
+
+For development & deployment:
+
+Developer System: Minimum 8GB RAM, Core i5/i7 processor, 500GB HDD/SSD
+
+Server: Cloud-based or Localhost (XAMPP/WAMP)
+
+User Devices: Web-compatible (PC, Mobile, Tablet)
+
+
+
+---
+
+SDGs (Sustainable Development Goals) Applied
+
+Your project aligns with several United Nations Sustainable Development Goals (SDGs):
+
+1. SDG 2: Zero Hunger – Ensures access to affordable and home-cooked food for students and employees.
+
+
+2. SDG 3: Good Health & Well-being – Promotes healthy eating by providing nutritious home-cooked meals.
+
+
+3. SDG 8: Decent Work & Economic Growth – Creates job opportunities for cooks, empowering small-scale workers.
+
+
+4. SDG 11: Sustainable Cities & Communities – Encourages community-driven solutions to urban food challenges.
+
+
+
+
+---
+
+This project has great potential, both as an academic project and a startup idea. Are you planning to develop it as part of your MCA project, or do you want to work on it independently?
+
